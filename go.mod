@@ -1,4 +1,4 @@
-module github.com/paceperspective/googlepubsub
+module github.com/blueambertech/googlepubsub
 
 go 1.21.1
 
